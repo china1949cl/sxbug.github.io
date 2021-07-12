@@ -16,7 +16,7 @@ layout: default
 
 ### 链接
 
-* Item foo
+* [百度](https://www.baidu.com?_blank)
 * Item bar
 * Item baz
 * Item zip
